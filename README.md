@@ -9,4 +9,5 @@
 * Codesandbox
 
 ## Features
-* Carousel Slider creater using JavaScript
+* Landing page of Disney+ Hotstar.
+* Carousel Slider with infinity effect created using JavaScript
